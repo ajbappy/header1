@@ -1,0 +1,49 @@
+/*header start*/
+header{
+
+}
+.container{
+	margin: 0 auto;
+      width: 80%;
+   
+      overflow: hidden;
+}
+.logo{
+	width: 18%;
+	float: left;
+	
+}
+.logo img{
+	width: 100%;
+}
+.menu{
+	width: 75%;
+	float: right;
+	
+
+}
+.menu ul{
+	float: right;
+}
+.menu ul li{
+	list-style: none;
+	float: left;
+	
+}
+.menu ul li a{
+	text-decoration: none;
+	padding: 10px 22px;
+	display: inline-block;
+	color: #B8C8DB;
+	font-family: sans-serif;
+	font-weight: 17px;
+	font-style: bold;
+}
+.menu ul li a:last-child{
+	padding-right: 0;
+}
+.menu ul li a:hover{
+                     color: #CA323C;
+
+}
+/*header start*/
